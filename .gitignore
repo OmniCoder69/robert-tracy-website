@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Original/source images (not needed for deploy)
+*.HEIC
+*.heic
+IMG_*
+
+# Misc
+*.log
+node_modules/
